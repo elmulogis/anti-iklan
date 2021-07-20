@@ -9,7 +9,7 @@ Ini mencontoh ekstensi [cube](https://github.com/picatz/cube.git)
 1. Clone source code: `$ git clone https://github.com/elmulogis/anti-iklan.git`
 2. Pada Chrome, ketik `chrome://extensions` atau klik pada menu | More Tools kemudian pilih Extensions.
 3. Aktifkan Developer Mode dengan klik tombol disebelah Developer mode.
-4. Click tombol LOAD UNPACKED pilih folder yang anti-iklan yang sudah didownload.
+4. Click tombol LOAD UNPACKED pilih folder anti-iklan yang sudah didownload sebelumnya.
 
 ## Cara kerja ?
 
