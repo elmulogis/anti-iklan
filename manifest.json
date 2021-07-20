@@ -1,0 +1,12 @@
+{
+    "name": "anti-iklan",
+    "version": "1.0",
+    "description": "Anti Iklan",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+      "scripts": ["filter_iklan.js"]
+    },
+    "icons": { "128": "ai128.png" },
+  
+    "manifest_version": 2
+  }
