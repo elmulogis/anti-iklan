@@ -10,7 +10,8 @@ chrome.webRequest.onBeforeRequest.addListener(
         "*://*.googlesyndication.com/*",
         "*://*.moat.com/*",
         "*://*.popin.cc/*",
-        "*://*.mgid.com/*"
+        "*://*.mgid.com/*",
+        "*://*.dable.io/*"
       ]
   },
   ["blocking"]
